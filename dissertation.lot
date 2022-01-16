@@ -1,0 +1,40 @@
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Publications and contributions to dissertation.\relax }}{8}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Summary of cognitive workload datasets used in this experiment.\relax }}{28}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Summary of cognitive workload datasets used in this experiment.\relax }}{32}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Summary of training accuracy, validation accuracy, and computational runtime on arithmetic data.\relax }}{39}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Summary of F1, precision, and recall scores on arithmetic data.\relax }}{40}
+\contentsline {table}{\numberline {3.5}{\ignorespaces Summary of training accuracy, validation accuracy, and computational runtime on DEAP data.\relax }}{48}
+\contentsline {table}{\numberline {3.6}{\ignorespaces Summary of F1, precision, and recall scores on DEAP data.\relax }}{49}
+\contentsline {table}{\numberline {3.7}{\ignorespaces Summary of training accuracy, validation accuracy, and computational runtime on visual matching data.\relax }}{56}
+\contentsline {table}{\numberline {3.8}{\ignorespaces Summary of F1, precision, and recall scores on visual matching data.\relax }}{60}
+\contentsline {table}{\numberline {3.9}{\ignorespaces Summary of training accuracy, validation accuracy, and computational runtime on SAPHYRE data.\relax }}{65}
+\contentsline {table}{\numberline {3.10}{\ignorespaces Summary of F1, precision, and recall scores on SAPHYRE data.\relax }}{67}
+\contentsline {table}{\numberline {3.11}{\ignorespaces Summary of technique comparison on arithmetic data.\relax }}{74}
+\contentsline {table}{\numberline {3.12}{\ignorespaces Summary of technique comparison on DEAP data.\relax }}{74}
+\contentsline {table}{\numberline {3.13}{\ignorespaces Summary of technique comparison on visual matching data.\relax }}{75}
+\contentsline {table}{\numberline {3.14}{\ignorespaces Summary of technique comparison on SAPHYRE data.\relax }}{76}
+\contentsline {table}{\numberline {3.15}{\ignorespaces Summary of technique comparison on all data.\relax }}{76}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Summary of cognitive workload dataset results.\relax }}{79}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Simplified summary of cognitive workload dataset results.\relax }}{80}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Summary of training accuracy, validation accuracy, and computational runtime under the single selection algorithm with 25\% of samples used for validation.\relax }}{83}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Summary of training accuracy, validation accuracy, and computational runtime under the dynamic selection algorithm with 25\% of samples used for validation.\relax }}{84}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Summary of training accuracy, validation accuracy, and computational runtime under the single selection algorithm with 66\% of samples used for validation.\relax }}{88}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Summary of training accuracy, validation accuracy, and computational runtime under the dynamic selection algorithm with 66\% of samples used for validation.\relax }}{88}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Summary of timeline partitions.\relax }}{108}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Simulation results evaluating average prediction error over time by validation ratio, method, and scenario.\relax }}{112}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Simulation results for ANN and ANN+DSET evaluating average prediction error over time for each individual UAV by method and by scenario.\relax }}{113}
+\contentsline {table}{\numberline {5.4}{\ignorespaces Simulation results for EKF and UKF evaluating average prediction error over time for each individual UAV by method and by scenario.\relax }}{113}
+\contentsline {table}{\numberline {5.5}{\ignorespaces Simulation results evaluating average prediction error over time by radar capability, method, and scenario.\relax }}{114}
+\contentsline {table}{\numberline {5.6}{\ignorespaces Simulation results evaluating average prediction error over time by validation ratio, method, and scenario.\relax }}{120}
+\contentsline {table}{\numberline {5.7}{\ignorespaces Simulation results evaluating average prediction error over time by radar capability, method, and scenario.\relax }}{120}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Simulation results evaluating average prediction error over time by validation ratio, method, and scenario.\relax }}{134}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Simulation results evaluating average prediction error over time for each individual UAV by method and by scenario.\relax }}{135}
+\contentsline {table}{\numberline {6.3}{\ignorespaces Simulation results evaluating average prediction error over time by validation ratio, method, and scenario.\relax }}{139}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
